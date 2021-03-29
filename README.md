@@ -1,1 +1,3 @@
 # vit-clubs-review
+
+This is a web-app that has information relating to clubs on campus and can help the juniors who are are looking forward to joining clubs but don't know what kind of clubs to join and what domains clubs have...
